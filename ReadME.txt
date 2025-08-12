@@ -25,7 +25,7 @@ pip install -r requirements.txt
 python src/model_training.py
 
 ##📂 Dataset
-This project uses https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset   from above link from Kaggle.
+This project uses https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset from this link from Kaggle.
 Due to size and licensing restrictions, the dataset is not included in this repository.
 
 To download the dataset:
@@ -34,5 +34,6 @@ Create or log in to your Kaggle account.
 Go to the dataset page: Dataset Link
 Click on Download to get the dataset files.
 Place the downloaded files in the data/ folder of this project.
+
 
 
